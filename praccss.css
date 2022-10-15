@@ -1,0 +1,40 @@
+body { padding-top: 70px; }
+
+.p-5 mb-4 bg-light rounded-3
+{
+    /* style="background-image: url('/pRACTICE/Images/thumb-1920-1081001.jpg');  background-size: contain; background-repeat: no-repeat;" */
+    background-image: url(/pRACTICE/Images/thumb-1920-1081001.jpg);
+    /* background-size: contain;
+    background-repeat: no-repeat; */
+display: flex;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+
+}
+.img {
+
+    float: left;
+    height: 100px;
+    width: 100px;
+  }
+  #header
+  {
+      position: fixed; 
+       z-index: 1; 
+        height:50px;
+      width: 98%;
+      top: 0;
+
+        background-color: #111; 
+      }
+ 
+/* body{
+  background-image: url(/Images/bg.png);
+ color: white;
+} */
+nav{
+  background-color: #1e2326;
+}
